@@ -1,33 +1,4 @@
 {
-  "videos": [
-    {
-      "name": "Aditya Rikhari – TERI YAAD (Video)",
-      "link": "https://youtu.be/R-sh3kfdHQ4",
-      "category": "Music",
-      "thumbnail_link": "https://img.youtube.com/vi/R-sh3kfdHQ4/hqdefault.jpg",
-      "id": 3
-    },
-    {
-      "name": "Aditya Rikhari - FAASLE",
-      "link": "https://youtu.be/EiiOYwqk3A0",
-      "category": "Music",
-      "thumbnail_link": "https://img.youtube.com/vi/EiiOYwqk3A0/hqdefault.jpg",
-      "id": 4
-    },
-    {
-      "name": "Health Anxiety - Standup Comedy by Abhishek Upmanyu",
-      "link": "https://youtu.be/_fWyWcZB7VA",
-      "category": "Comedy",
-      "thumbnail_link": "https://img.youtube.com/vi/_fWyWcZB7VA/hqdefault.jpg",
-      "id": 5
-    },
-    {
-      "name": "Reality of Bageshwar Dham Baba | Another Fraud? | Dhruv Rathee",
-      "link": "https://youtu.be/CFZWI8ExfuY",
-      "category": "News",
-      "thumbnail_link": "https://img.youtube.com/vi/CFZWI8ExfuY/hqdefault.jpg",
-      "id": 6
-    }
-  ],
+  "videos": [],
   "history": []
 }
